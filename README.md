@@ -22,7 +22,7 @@ I am a dedicated **Backend Developer** with a strong focus on software architect
 
 Currently transitioning from Junior to Mid-level, I actively work on enterprise-grade projects, mentor aspiring developers, and continuously deepen my expertise in modern backend technologies. My goal is to contribute to complex, high-impact systems while growing as a strong system design engineer.
 
-- 🔭 Currently developing **Bakery_CRM_Backend** — a full-featured CRM using Clean/Onion Architecture
+- 🔭 Currently developing **System Design and Scalable Coding** — a full-featured  using Clean/Onion Architecture
 - 🌱 Deepening knowledge in **Event-Driven Architecture**, **Distributed Systems**, and **Performance Optimization**
 - 📚 Mentor at [CodeForge.az](https://instagram.com/codeforge.az) — helping students master backend development and logical thinking
 
@@ -59,12 +59,12 @@ Currently transitioning from Junior to Mid-level, I actively work on enterprise-
 **Bakery_CRM_Backend**  
 A comprehensive Customer Relationship Management system built with **Clean/Onion Architecture**, **CQRS + MediatR**, **EF Core**, PostgreSQL, Redis caching, and JWT authentication. Includes Companies, Leads, Deals, Contacts, Tasks, Notes, and Activity tracking.  
 → *Focus: Maintainability, scalability, and professional enterprise patterns*  
-[View Repository →](https://github.com/ElvinAliyev/Bakery_CRM_Backend)
 
-**TechNovaHR**  
+
+**CodeRoom**  
 Educational console application demonstrating advanced OOP principles, SOLID, enums, interfaces, generic collections, and employee management logic.  
 → *Focus: Teaching foundation for clean, maintainable code*  
-[View Repository →](https://github.com/ElvinAliyev/TechNovaHR)
+
 
 **Additional Projects**  
 - RESTful APIs with full authentication & authorization flows  
@@ -84,20 +84,11 @@ Educational console application demonstrating advanced OOP principles, SOLID, en
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElvinAliyev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElvinAliyev&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
 ### 📫 Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/elvin-əliyev](https://www.linkedin.com/in/elvin-aliyev-dev/)
 - **Instagram (CodeForge)**: [@codeforge.az](https://instagram.com/codeforge.az)
-- **Email**: [your.email@example.com](elvinaliyevv4483@gmail.com)
+
 
 ---
 
