@@ -2,43 +2,60 @@
 
 <p align="center">
   <strong>Backend Developer & Mentor @ CodeForge.az</strong><br>
-  Building scalable and clean .NET applications with modern architectures
+  <em>Building scalable, clean and production-ready .NET applications</em>
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-- 🔭 I'm currently building **Bakery_CRM** — full-featured CRM system using Clean/Onion Architecture
+- 🔭 Currently developing **Bakery_CRM** — full-featured CRM with Clean/Onion Architecture, CQRS + MediatR
 - 👨‍🏫 Backend Mentor at **CodeForge.az** — Helping students become real backend developers
-- 📍 Based in Baku, Azerbaijan
-- 📧 Contact me at: elvinaliyevv4483@gmail.com
+- 🎓 High Honour Graduate — Software Development, Code Academy (May 2026)
+- 🌍 Based in Baku, Azerbaijan
+- 📧 **elvinaliyevv4483@gmail.com**
 
-### Technical Skills
+---
 
-**Languages:**
-- Proficient in **C#**, **C**
+### 🛠️ Technical Skills
 
-**.NET Technologies:**
-- ASP.NET Core (Web API, REST APIs)
+**Languages**
+- **C#** • **C**
+
+**.NET Ecosystem**
+- ASP.NET Core (Web API & REST)
 - Entity Framework Core
 - Clean Architecture & Onion Architecture
 - CQRS + MediatR
-- FluentValidation, Serilog, AutoMapper, JWT Authentication
+- JWT Authentication • FluentValidation • Serilog • AutoMapper
 
-**Databases & Caching:**
+**Databases & Caching**
 - PostgreSQL
 - Redis
 
-**DevOps & Tools:**
+**Tools & DevOps**
 - Docker
 - Git & GitHub
 
-**Frontend Basics:**
-- React, TypeScript, Tailwind CSS (in progress), TypeScript
+**Currently Learning**
+- React • TypeScript • Tailwind CSS
 
 ---
 
+> **"Əzbərçi deyil, həqiqi Backend Developer ol"** — CodeForge.az
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvin-aliyev-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codeforge.az)
+
+</div>
 
 ⭐️ Open to collaboration, mentoring and new opportunities!
