@@ -1,61 +1,106 @@
-<h1 align="center">Hi 👋, I'm Elvin Əliyev</h1>
-
-<p align="center">
-  <strong>Backend Developer & Mentor @ CodeForge.az</strong><br>
-  <em>Building scalable, clean and production-ready .NET applications</em>
-</p>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <h1>👋 Hi, I'm Elvin Əliyev</h1>
+  <h3>Backend / Full-Stack Developer</h3>
+  <p><strong>Building scalable, maintainable systems with .NET and Clean Architecture</strong></p>
+
+  <a href="https://github.com/ElvinAliyev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/elvin-əliyev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 Currently developing **Bakery_CRM** — full-featured CRM with Clean/Onion Architecture, CQRS + MediatR
-- 👨‍🏫 Backend Mentor at **CodeForge.az** — Helping students become real backend developers
-- 🎓 High Honour Graduate — Software Development, Code Academy (May 2026)
-- 🌍 Based in Baku, Azerbaijan
-- 📧 **elvinaliyevv4483@gmail.com**
+I am a dedicated **Backend Developer** with a strong focus on software architecture, system design, and building robust, scalable applications. Passionate about Clean Architecture, CQRS, Domain-Driven Design, and creating high-quality, maintainable codebases that solve real business problems.
 
----
+Currently transitioning from Junior to Mid-level, I actively work on enterprise-grade projects, mentor aspiring developers, and continuously deepen my expertise in modern backend technologies. My goal is to contribute to complex, high-impact systems while growing as a strong system design engineer.
 
-### 🛠️ Technical Skills
-
-**Languages**
-- **C#** • **C**
-
-**.NET Ecosystem**
-- ASP.NET Core (Web API & REST)
-- Entity Framework Core
-- Clean Architecture & Onion Architecture
-- CQRS + MediatR
-- JWT Authentication • FluentValidation • Serilog • AutoMapper
-
-**Databases & Caching**
-- PostgreSQL
-- Redis
-
-**Tools & DevOps**
-- Docker
-- Git & GitHub
-
-**Currently Learning**
-- React • TypeScript • Tailwind CSS
+- 🔭 Currently developing **Bakery_CRM_Backend** — a full-featured CRM using Clean/Onion Architecture
+- 🌱 Deepening knowledge in **Event-Driven Architecture**, **Distributed Systems**, and **Performance Optimization**
+- 📚 Mentor at [CodeForge.az](https://instagram.com/codeforge.az) — helping students master backend development and logical thinking
 
 ---
 
-> **"Əzbərçi deyil, həqiqi Backend Developer ol"** — CodeForge.az
+### 🛠️ Tech Stack
+
+#### Backend & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-4ECDC4?style=for-the-badge)
+![MediatR](https://img.shields.io/badge/MediatR-9C27B0?style=for-the-badge)
+
+#### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### Tools & Others
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Serilog](https://img.shields.io/badge/Serilog-0C4B8E?style=for-the-badge)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-6A0DAD?style=for-the-badge)
+
+---
+
+### 🚀 Featured Projects
+
+**Bakery_CRM_Backend**  
+A comprehensive Customer Relationship Management system built with **Clean/Onion Architecture**, **CQRS + MediatR**, **EF Core**, PostgreSQL, Redis caching, and JWT authentication. Includes Companies, Leads, Deals, Contacts, Tasks, Notes, and Activity tracking.  
+→ *Focus: Maintainability, scalability, and professional enterprise patterns*  
+[View Repository →](https://github.com/ElvinAliyev/Bakery_CRM_Backend)
+
+**TechNovaHR**  
+Educational console application demonstrating advanced OOP principles, SOLID, enums, interfaces, generic collections, and employee management logic.  
+→ *Focus: Teaching foundation for clean, maintainable code*  
+[View Repository →](https://github.com/ElvinAliyev/TechNovaHR)
+
+**Additional Projects**  
+- RESTful APIs with full authentication & authorization flows  
+- Algorithm implementations and data structure solutions (C#)  
+- Various microservices and integration examples
+
+---
+
+### 💡 Skills & Strengths
+
+- **Software Architecture** — Clean Architecture, DDD basics, CQRS, Vertical Slice Architecture
+- **API Development** — RESTful services, proper separation of concerns, versioning, documentation
+- **Database Design** — Relational modeling, EF Core, migrations, query optimization
+- **Problem Solving** — Strong algorithmic thinking and systematic debugging
+- **Best Practices** — Unit/Integration testing mindset, logging, validation, security, Dockerization
+- **Mentorship** — Clear technical communication and knowledge sharing
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvin-aliyev-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codeforge.az)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ElvinAliyev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElvinAliyev&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
-⭐️ Open to collaboration, mentoring and new opportunities!
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn**: [linkedin.com/in/elvin-əliyev](https://www.linkedin.com/in/elvin-aliyev-dev/)
+- **Instagram (CodeForge)**: [@codeforge.az](https://instagram.com/codeforge.az)
+- **Email**: [your.email@example.com](elvinaliyevv4483@gmail.com)
+
+---
+
+<div align="center">
+  <i>"Crafting reliable systems through clean code and thoughtful architecture."</i>
+</div>
